@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+.failed{
+	color:red
+}
+
+.logged{
+	color:navy
+}
+
+h3{
+	color:blue
+}
